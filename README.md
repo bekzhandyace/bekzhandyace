@@ -1,4 +1,4 @@
-<h2> ✨About me: </h2>
+<h2> ✨ About me: </h2>
 
 I am a Flutter developer with 1,5 + years of commercial experience. In my free time, I strengthen my knowledge of Flutter development and Computer Science
 <div id="badges">
@@ -12,7 +12,7 @@ I am a Flutter developer with 1,5 + years of commercial experience. In my free t
 <h2> 💻 Tech Stack: </h2>
 
 <h4> Dart, Flutter, BloC, Provider, Dio, HTTP, Hive, Navigator 2.0, Git </h4>
-<h2> 📊GitHub Stats: </h2>
+<h2> 📊 GitHub Stats: </h2>
 
 [![Top Langs](http://github-readme-streak-stats.herokuapp.com?user=bekzhandyace&theme=blueberry)](https://git.io/streak-stats)
 
