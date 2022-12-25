@@ -2,9 +2,9 @@
 ---
 I am a Flutter developer with 1,5 + years of commercial experience. In my free time, I strengthen my knowledge of Flutter development and Computer Science
 <div id="badges">
-  <a href="https://t.me/bekzhandyace"/>
+  <a href="https://t.me/bekzhandyace">
   </a>
-  <a href="https://docs.google.com/document/d/129R0dAoOjNsAudv-Y1k2PKzddcII-BnhyO9fin1YyC8/edit#"/>
+  <a href="https://docs.google.com/document/d/129R0dAoOjNsAudv-Y1k2PKzddcII-BnhyO9fin1YyC8/edit#">
   </a>
 </div>
 <!--
