@@ -12,7 +12,8 @@ I am a Flutter developer with 1,5 + years of commercial experience. In my free t
 <h2> 💻 Tech Stack: </h2>
 
 <h4> Dart, Flutter, BloC, Provider, Dio, HTTP, Hive, Navigator 2.0, Git </h4>
-<h2> 📊GitHub Stats </h2>
+<h2> 📊GitHub Stats: </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bekzhandyace&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](http://github-readme-streak-stats.herokuapp.com?user=bekzhandyace&theme=blueberry)](https://git.io/streak-stats)
+
 
