@@ -1,4 +1,6 @@
-### About me:
+### ✨About me:
+---
+I am a Flutter developer with 1,5 + years of commercial experience. In my free time, I strengthen my knowledge of Flutter development and Computer Science
 
 <!--
 **bekzhandyace/bekzhandyace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
