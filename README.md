@@ -9,6 +9,6 @@ I am a Flutter developer with 1,5 + years of commercial experience. In my free t
     <img src="https://img.shields.io/badge/My resume-9cf?style=for-the-badge&logo=note&logoColor=white" alt="Note Badge"/>
   </a>
 </div>
---- 💻 Tech Stack:
-<h2> Dart, Flutter, BloC, Provider, Dio, HTTP, Hive, Navigator 2.0, Git </h2>
+### 💻 Tech Stack:
+<h4> Dart, Flutter, BloC, Provider, Dio, HTTP, Hive, Navigator 2.0, Git </h4>
 
