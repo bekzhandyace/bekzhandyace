@@ -5,11 +5,8 @@ I am a Flutter developer with 1,5 + years of commercial experience. In my free t
   <a href="https://t.me/bekzhandyace">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://docs.google.com/document/d/129R0dAoOjNsAudv-Y1k2PKzddcII-BnhyO9fin1YyC8/edit#">
     <img src="https://img.shields.io/badge/My resume-9cf?style=for-the-badge&logo=note&logoColor=white" alt="Note Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <!--
