@@ -2,9 +2,14 @@
 ---
 I am a Flutter developer with 1,5 + years of commercial experience. In my free time, I strengthen my knowledge of Flutter development and Computer Science
 <div id="badges">
-  <a href="https://t.me/bekzhandyace">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://docs.google.com/document/d/129R0dAoOjNsAudv-Y1k2PKzddcII-BnhyO9fin1YyC8/edit#">
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <!--
