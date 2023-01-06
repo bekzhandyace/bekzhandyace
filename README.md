@@ -11,7 +11,7 @@
 </div>
 <h2> 💻 Tech Stack: </h2>
 
-<h4> </h4>
+<h4>Dart, Flutter, provider, shared preferences, Dio, Http, Git</h4>
 
 
 
