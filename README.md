@@ -1,5 +1,6 @@
 <h2> ✨ About me: </h2>
 
+<h4> I am flutter developer </h4>
 
 <div id="badges">
   <a href="https://t.me/bekzhandyace">
