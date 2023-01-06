@@ -1,6 +1,6 @@
 <h2> ✨ About me: </h2>
 
-I am a Flutter developer with 1,5 + years of commercial experience. In my free time, I strengthen my knowledge of Flutter development and Computer Science
+
 <div id="badges">
   <a href="https://t.me/bekzhandyace">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
