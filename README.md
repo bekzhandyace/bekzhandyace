@@ -12,8 +12,6 @@
 <h2> 💻 Tech Stack: </h2>
 
 <h4> </h4>
-<h2> 📊 GitHub Stats: </h2>
 
-[![Top Langs](http://github-readme-streak-stats.herokuapp.com?user=bekzhandyace&theme=blueberry)](https://git.io/streak-stats)
 
 
