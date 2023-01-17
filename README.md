@@ -1,15 +1,15 @@
-<h5> ✨ About me: </h5>
+<h4> ✨ About me: </h4>
 
-<h6> I am flutter developer developer with 1.5+ years of commercial experience.
-I develop multiplatform applications using Dart and Flutter.</h6>
+<h4> I am flutter developer developer with 1.5+ years of commercial experience.
+I develop multiplatform applications using Dart and Flutter.</h4>
 
-<h6>🐣 Live in Kazakhstan.</h6>
+<h4>🐣 Live in Kazakhstan.</h4>
 
 </div>
-<h5> 💻 Tech Stack: </h5>
+<h4> 💻 Tech Stack: </h4>
 <h4>Dart, Flutter, BloC, Provider, Dio, HTTP, Auto Route, Hive, Git</h4>
 
-<h5>📫 Reach me at:</h5>
+<h4>📫 Reach me at:</h4>
 <div id="badges">
   <a href="https://t.me/bekzhandyace">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
