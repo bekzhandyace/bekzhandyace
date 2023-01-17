@@ -1,7 +1,7 @@
-<h2> ✨ About me: </h2>
+<h6> ✨ About me: </h6>
 
-<h4> I am flutter developer developer with 1.5+ years of commercial experience.
-I develop multiplatform applications using Dart and Flutter.</h4>
+<h6> I am flutter developer developer with 1.5+ years of commercial experience.
+I develop multiplatform applications using Dart and Flutter.</h6>
 
 <h6>📫 Reach me at:</h6>
 <div id="badges">
@@ -15,7 +15,7 @@ I develop multiplatform applications using Dart and Flutter.</h4>
   
   </a>
 </div>
-<h2> 💻 Tech Stack: </h2>
+<h6> 💻 Tech Stack: </h6>
 <h4>Dart, Flutter, BloC, Provider, Dio, HTTP, Auto Route, Hive, Git</h4>
 
 
