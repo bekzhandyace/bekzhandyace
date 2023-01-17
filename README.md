@@ -12,6 +12,7 @@ I develop multiplatform applications using Dart and Flutter.</h4>
 </p>
 </div>
 <h4> 💻 Tech Stack: </h4>
+<hr></hr>
 <h4>Dart, Flutter, BloC, Provider, Dio, HTTP, Auto Route, Hive, Git</h4>
 
 <h4>📫 Reach me at:</h4>
