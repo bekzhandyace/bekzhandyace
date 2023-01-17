@@ -3,7 +3,7 @@
 <h4> I am flutter developer developer with 1.5+ years of commercial experience.
 I develop multiplatform applications using Dart and Flutter.</h4>
 
-<h4>🐣 Live in Kazakhstan.</h4>
+<h5>🐣 Live in Kazakhstan.</h5>
 
 </div>
 <h4> 💻 Tech Stack: </h4>
