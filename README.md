@@ -4,11 +4,11 @@
 <h4> I am flutter developer developer with 1.5+ years of commercial experience.
 I develop multiplatform applications using Dart and Flutter.</h4>
 
-🐣 Live in Kazakhstan.
+<h3>🐣 Live in Kazakhstan.
 🔮 I see myself coding till I die
 
 🌱 I’m learning more and more each day.
-
+</h3>
 </div>
 <h4> 💻 Tech Stack: </h4>
 <h4>Dart, Flutter, BloC, Provider, Dio, HTTP, Auto Route, Hive, Git</h4>
