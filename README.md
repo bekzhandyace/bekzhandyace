@@ -1,4 +1,5 @@
 <h4> ✨ About me: </h4>
+<hr></hr>
 
 <h4> I am flutter developer developer with 1.5+ years of commercial experience.
 I develop multiplatform applications using Dart and Flutter.</h4>
