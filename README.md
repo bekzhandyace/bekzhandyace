@@ -14,7 +14,6 @@ I develop multiplatform applications using Dart and Flutter.</h4>
 <h2> 💻 Tech Stack: </h2>
 <h4>Dart, Flutter, BloC, Provider, Dio, HTTP, Auto Route, Hive, Git</h4>
 
-<h4>Dart, Flutter, provider, shared preferences, Dio, Http, Git</h4>
 
 
 
