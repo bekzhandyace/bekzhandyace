@@ -5,6 +5,9 @@
 I develop multiplatform applications using Dart and Flutter.</h4>
 
 🐣 Live in Kazakhstan.
+🔮 I see myself coding till I die
+
+🌱 I’m learning more and more each day.
 
 </div>
 <h4> 💻 Tech Stack: </h4>
